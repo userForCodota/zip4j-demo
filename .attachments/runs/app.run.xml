@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    <module name="zip4j-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.gust.cafe.zip4jdemo.Zip4jDemoApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.gust.cafe.zip4jdemo.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
